@@ -1,0 +1,31 @@
+.questionsBox{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 100px;
+}
+
+.question{
+  font-size: 20px;
+
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.question:hover{
+  background-color: #efefef;
+}
+
+.answersBox{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 300px;
+}
+
+.answer{
+  text-align: justify;
+  margin-bottom: 80px;
+}
+
+.goUp{
+  float: right;
+}
